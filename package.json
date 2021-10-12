@@ -4,7 +4,7 @@
   "description": "Calculate score for any game. Currently Least card game",
   "main": "index.js",
   "scripts": {
-    "start": "./index.js",
+    "start": "index.js",
     "test": "jest"
   },
   "repository": {
